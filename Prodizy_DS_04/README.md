@@ -63,5 +63,6 @@ The primary business problem addressed in this project is to analyze and underst
 
 ## Author
 
-- Stephen Ogaja
-- stephenogaja@gmail.com
+- PRANAV BHAWSAR
+* ✉️  You can contact me at [Mail_Me](mailto:p8982667641@gmail.com)
+* ✉️ :office: [LinkedIn](https://www.linkedin.com/in/Pranavbhawsar/)
