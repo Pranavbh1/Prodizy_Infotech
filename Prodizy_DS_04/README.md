@@ -1,5 +1,9 @@
 # Sentiment Analysis for Brand Perception (TWITTER)
 
+<img src="1.png" width="800" /></a>
+
+
+
 <img src="banner.jpeg" alt="Image" width="900" height="400">
 
 ## Table of Contents
